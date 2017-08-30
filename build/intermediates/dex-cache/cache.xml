@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\lessonsoft\sdkk\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\androidworkspace\AndroidArt\Chapter_1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_68f66beca33c1256442eb92e8c80a44d6f997c74.jar" />
+    </item>
+
+</items>

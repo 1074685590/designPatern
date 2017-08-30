@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:13:5-53:19
+	android:label
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.ryg.chapter_1.MainActivity
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:label
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:22:13-45
+	android:launchMode
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:23:13-42
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:20:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.ryg.chapter_1.SecondActivity
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:30:9-35:52
+	android:label
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:33:13-45
+	android:launchMode
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:34:13-42
+	android:configChanges
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:32:13-49
+	android:taskAffinity
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:31:13-60
+activity#com.ryg.chapter_1.ThirdActivity
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:36:9-52:20
+	android:label
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:40:13-44
+	android:configChanges
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:38:13-49
+	android:taskAffinity
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:37:13-59
+intent-filter#android.intent.category.DEFAULT+com.ryg.category.c+com.ryg.category.d+com.ryg.charpter_1.c+com.ryg.charpter_1.d
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:42:13-51:29
+action#com.ryg.charpter_1.c
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:43:17-63
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:43:25-60
+action#com.ryg.charpter_1.d
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:44:17-63
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:44:25-60
+category#com.ryg.category.c
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:46:17-63
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:46:27-60
+category#com.ryg.category.d
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:47:17-63
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:47:27-60
+category#android.intent.category.DEFAULT
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:48:27-73
+data
+ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:50:17-55
+	android:mimeType
+		ADDED from D:\androidworkspace\AndroidArt\Chapter_1\app\src\main\AndroidManifest.xml:50:23-52
