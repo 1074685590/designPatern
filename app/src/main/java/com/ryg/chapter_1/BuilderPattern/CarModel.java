@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * @author cbf4Life cbf4life@126.com
  *         I'm glad to share my knowledge with you all.
- *         定义一个车辆模型的抽象类，所有的车辆模型都继承这里类
+ *         定义一个车辆模型的舒服点抽象类，所有的车辆模型都继承这里类
  */
 public abstract class CarModel {
     //这个参数是各个基本方法执行的顺序
